@@ -1,2 +1,2 @@
 # Java-Quiz-App
-A quizzing app made of Java.
+A quizzing app made with Java.
